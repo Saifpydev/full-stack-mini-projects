@@ -60,11 +60,9 @@ Mobile View
 
 "Mobile View" (screenshots/mobile-view.png)
 
-Live Demo
+[View Live Demo](https://saifpydev.github.io/full-stack-mini-projects/Frontend-Projects/netflix-clone/)
 
-Coming Soon
-
-Source Code
+[View Source Code](https://github.com/Saifpydev/full-stack-mini-projects/tree/master/Frontend-Projects/netflix-clone)
 
 Available in this repository.
 

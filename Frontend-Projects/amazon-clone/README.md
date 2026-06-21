@@ -1,116 +1,88 @@
-Amazon Clone
+# Amazon Clone
 
-A desktop-first Amazon-inspired e-commerce homepage built using HTML5 and CSS3. This project replicates the look and feel of Amazon's homepage and was created to practice front-end web development fundamentals.
+A front-end clone of the Amazon homepage built using HTML5 and CSS3. This project recreates the look and feel of Amazon's landing page, including the navigation bar, hero section, product cards, shopping categories, and footer layout.
 
-🚀 Project Overview
+## Features
 
-This Amazon Clone demonstrates the use of HTML and CSS to build a modern e-commerce user interface. The project includes a navigation bar, hero section, shopping categories, product cards, and footer inspired by Amazon's website.
-
-✨ Features
-
-- Amazon-style Navigation Bar
-- Search Bar with Category Selector
+- Amazon-inspired Navigation Bar
+- Search Bar UI
 - Hero Banner Section
 - Product Category Cards
-- Shopping Layout Design
-- Hover Effects
-- Professional Footer Section
+- Shopping Sections Layout
+- Multi-Column Footer
 - Clean and Organized Code Structure
-- Desktop-First Design
+- Desktop Optimized Design
 
-🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
-- Font Awesome
 
-📂 Folder Structure
+## Project Preview
 
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### Product Sections
+
+![Product Sections](screenshots/product-sections.png)
+
+### Footer Section
+
+![Footer Section](screenshots/footer.png)
+
+## Live Demo
+
+🚀 [View Live Demo](https://saifpydev.github.io/full-stack-mini-projects/Frontend-Projects/amazon-clone/)
+
+## Source Code
+
+💻 [View Source Code](https://github.com/Saifpydev/full-stack-mini-projects/tree/master/Frontend-Projects/amazon-clone)
+
+## Folder Structure
+
+```text
 amazon-clone/
 │
 ├── media/
-│   └── Images and assets used in the project
-│
 ├── screenshots/
-│   └── Project screenshots
+│   ├── homepage.png
+│   ├── product-sections.png
+│   └── footer.png
 │
 ├── index.html
-│   └── Main HTML file
-│
 ├── style.css
-│   └── Main CSS stylesheet
-│
 └── README.md
-    └── Project documentation
+```
 
-📸 Screenshots
+## Learning Outcomes
 
-Add screenshots inside the "screenshots" folder.
+Through this project, I practiced:
 
-Homepage
+- Building large webpage layouts using HTML
+- Styling components with CSS
+- Creating navigation bars and product grids
+- Working with images and assets
+- Organizing project files professionally
+- Managing projects using Git and GitHub
 
-"screenshots/homepage.png"
+## Project Status
 
-Product Section
+✅ Completed
 
-"screenshots/products-section.png"
+## Limitations
 
-Footer
+- This project is not fully responsive.
+- Optimized primarily for desktop screens.
+- No backend functionality included.
+- No JavaScript functionality implemented.
 
-"screenshots/footer.png"
 
-🎯 Learning Outcomes
+This project was created for educational and portfolio purposes only. Amazon name and branding belong to Amazon. This project is not affiliated with or endorsed by Amazon.
 
-Through this project, I learned:
+## Author
 
-- HTML page structure
-- CSS styling techniques
-- Flexbox layouts
-- Navigation bar design
-- Hero section creation
-- Product card layouts
-- Footer development
-- Project organization and documentation
-
-⚙️ Installation
-
-Clone the repository:
-
-git clone https://github.com/Saifpydev/full-stack-mini-projects.git
-
-Navigate to the project folder:
-
-cd Frontend-Projects/amazon-clone
-
-Open "index.html" in your browser.
-
-🔮 Future Improvements
-
-- Responsive Design
-- JavaScript Interactivity
-- Product Pages
-- Shopping Cart Functionality
-- User Authentication Pages
-- Enhanced UI and Animations
-
-📌 Repository
-
-GitHub Repository:
-
-https://github.com/Saifpydev/full-stack-mini-projects
-
-📜 Disclaimer
-
-This project is created for educational and learning purposes only. It is not affiliated with, endorsed by, or associated with Amazon.
-
-👨‍💻 Author
-
-Saif Farid
-
-Frontend Development Learner
+**Saif Farid**
 
 GitHub: https://github.com/Saifpydev
-
----
-
-⭐ If you found this project helpful, consider giving the repository a star.

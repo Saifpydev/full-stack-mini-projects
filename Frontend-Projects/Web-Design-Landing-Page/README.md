@@ -1,57 +1,70 @@
-Web Design Landing Page
+# Web Design Landing Page
 
-A modern and responsive landing page built using HTML and CSS. This project demonstrates frontend development fundamentals including layout design, navigation bar creation, responsive styling, hero sections, login forms, and user interface design.
+A modern desktop-based landing page built using HTML5 and CSS3. This project includes a navigation bar, hero section, search box, login form, and call-to-action button with a clean user interface.
 
-Features
+## Features
 
-- Responsive Landing Page Design
-- Modern Navigation Bar
+- Modern Landing Page Design
+- Navigation Bar
 - Hero Section
 - Login Form UI
-- Attractive Background Design
-- Clean User Interface
-- HTML5 Semantic Structure
-- CSS3 Styling
+- Search Bar
+- Call-To-Action Button
+- Clean Layout Structure
+- Desktop Optimized Design
 
-Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 
-Project Structure
+## Project Structure
 
+```text
 Web-Design-Landing-Page/
+│
+├── media/
+├── screenshots/
+│   └── Web-page.png
 │
 ├── index.html
 ├── style.css
-├── screenshots/
 └── README.md
+```
 
-Screenshots
+## Screenshot
 
-Home Page
+![Web Design Landing Page](screenshots/Web-page.png)
 
-"Home Page" (screenshots/home-page.png)
+## Live Demo
 
-Live Demo
+🔗 https://saifpydev.github.io/full-stack-mini-projects/Frontend-Projects/Web-Design-Landing-Page/
 
-Coming Soon
+## Source Code
 
-Source Code
+🔗 https://github.com/Saifpydev/full-stack-mini-projects/tree/master/Frontend-Projects/Web-Design-Landing-Page
 
-Available in this repository.
+## Learning Outcomes
 
-Learning Outcomes
+Through this project, I practiced:
 
-- HTML Page Structure
-- CSS Positioning
-- Flexbox Layout
-- Form Design
-- Responsive Design Basics
-- UI Development
+- Building landing page layouts using HTML
+- Styling web pages with CSS
+- Working with Flexbox
+- Creating forms and navigation menus
+- Organizing project files professionally
+- Managing projects using Git and GitHub
 
-Author
+## Project Status
 
-Saif Farid
+✅ Completed
 
-GitHub: https://github.com/Salfpydev
+## Note
+
+This project is designed for desktop view and was created for learning and portfolio purposes.
+
+## Author
+
+**Saif Farid**
+
+GitHub: https://github.com/Saifpydev

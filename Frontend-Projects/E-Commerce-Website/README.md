@@ -27,6 +27,10 @@ A modern and responsive E-Commerce landing page built primarily with HTML5 and C
 
 ![Mobile View](screenshot/mobile-view.png)
 
+🚀 [View Live Demo](https://saifpydev.github.io/full-stack-mini-projects/Frontend-Projects/E-Commerce-Website/)
+
+💻 [View Source Code](https://github.com/Saifpydev/full-stack-mini-projects/tree/master/Frontend-Projects/E-Commerce-Website)
+
 ## Learning Outcomes
 
 Through this project, I practiced:
